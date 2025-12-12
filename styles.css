@@ -25,10 +25,14 @@ h2{
 
 /* To do later, resize Img */
 img{
-    /*     
+    /*
     height: 642;
     width: 841; */
     width: 207 px;
     height: 300 px;
     margin-left: 100px;
+}
+
+.breathe{
+    /* this is a class to group all the elements together! */
 }
